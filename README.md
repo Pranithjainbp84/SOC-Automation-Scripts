@@ -13,7 +13,6 @@ A collection of Python and PowerShell scripts designed to automate various tasks
 **Description**: A Python script that fetches threat intelligence Indicators of Compromise (IOCs) from sources like VirusTotal. The script enables SOC teams to retrieve critical threat intelligence quickly.
 
 Usage Example:
-bash
 python threat_feed_fetcher.py
 
 api_key = "your_api_key_here"
@@ -36,7 +35,5 @@ File: [malware_hash_checker.py]
 Description: A Python script that checks if a given file hash matches known malware hashes by querying threat intelligence services like VirusTotal.
 
 Usage Example:
-bash
-Copy
 python malware_hash_checker.py
 
