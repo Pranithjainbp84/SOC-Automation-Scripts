@@ -8,7 +8,7 @@
 📄 File: threat_feed_fetcher.py
 📌 Description: Fetches threat intelligence IOCs from sources like VirusTotal.
 
-# Example usage:
+# Usage:
 api_key = "your_api_key_here"
 domain = "example.com"
 print(fetch_virus_total(api_key, domain))
